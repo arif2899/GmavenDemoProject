@@ -13,3 +13,4 @@ We follow up with the funds and managers under 5 different scenarios, for each o
 * Combination of 4 scenarios at the top
 
 To run the code you need to open the code file ( .pynb)  using google colab and upload the dataset ( .csv ) into google sheets.
+Google Colab : https://colab.research.google.com
